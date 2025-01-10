@@ -34,6 +34,7 @@ input[type="email"] {
 }
 input[type="submit"] {
     padding: 10px 20px;
+    margin-top: 20px;
     background-color: #0066cc;
     color: white;
     border: none;
@@ -43,4 +44,19 @@ input[type="submit"] {
     max-width: 100%;
     height: auto;
     text-align: center;
+}
+.about-me{
+    background-color: rgb(186, 127, 55);
+    padding: 15px;
+}
+.form{
+    
+    
+}
+.form-input:hover{
+    background-color: rgb(102, 102, 179);
+}
+
+@media screen and (max-width: 600px) {
+    
 }
